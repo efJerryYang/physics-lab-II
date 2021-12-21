@@ -1,4 +1,4 @@
-# physic-lab_II
+# physics-lab_II
 
 ## Introduction
 本来只是临时存放处理数据和写报告的中间产物，但这一次大物实验改变了我的想法。
